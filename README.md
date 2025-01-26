@@ -71,7 +71,7 @@ The user can filter colors by color group, brand and name
 After the colors have been selected, the images and color data will be sent for processing. The processed data will then automatically be displayed to the user. If multiple colors were selected, the user can freely switch between colors and the original image
 
 ### Grape Green
-![image](https://github.com/user-attachments/assets/55c12155-5b96-4874-96f6-04a14adf1ce1)
+![image](https://github.com/user-attachments/assets/bfc97d9a-e348-4c35-9f97-0773c6707212)
 
 ### Light Blue
 ![image](https://github.com/user-attachments/assets/b7cd46f1-be19-4f86-8815-bbc3fbf446a4)
