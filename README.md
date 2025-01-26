@@ -9,6 +9,9 @@ The following demo shows a run through of how to use the app (different from the
 https://www.youtube.com/watch?v=evf0q-GEjXs
 
 # User Flow
+- [User Login](#user-login)
+- [User Profile Tab](#user-profile-tab)
+
 
 ## User Login
 
