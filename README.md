@@ -10,6 +10,12 @@ https://www.youtube.com/watch?v=evf0q-GEjXs
 
 # User Flow
 - [User Login](#user-login)
+- [Navigate all colors](#navigate-all-colors)
+- [review color](#review-color)
+- [Feavorite a color](#favorite-a-color)
+- [select wall to revisualize](#select-wall-to-revisualize)
+- [select color(s)](#select-colors)
+- [Reviewing the revisualized wall](#reviewing-the-revisualized-wall)
 - [User Profile Tab](#user-profile-tab)
 
 
